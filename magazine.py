@@ -1,4 +1,4 @@
-```python
+
 from publication import Publication
 
 

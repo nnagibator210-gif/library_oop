@@ -24,4 +24,4 @@ for publication in publications:
     print(publication.get_info())
 
 print(book.read_pages(100))
-print(book.read_pages(50))
+print(book.read_pages(50))  
